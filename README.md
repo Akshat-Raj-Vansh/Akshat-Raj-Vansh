@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Android Development stuff
 - 🌱 I’m currently learning Game Development
 - 📫 You can reach me at my mail: akshat03rajvansh@gmail.com
-- ⚡ If I'm not coding, I'm most probably playing my Fifa, reading manhwas One Piece
+- ⚡ If I'm not coding, I'm most probably playing my Fifa, reading mangas One Piece
 
 ### Connect with me:
 
