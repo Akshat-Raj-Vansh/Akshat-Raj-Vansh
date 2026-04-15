@@ -41,14 +41,6 @@ I build robust **Machine Learning** and **Generative AI (RAG)** solutions, with 
 
 <br/>
 
----
-
-### ⚡ GitHub Stats
-
-[![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshat-Raj-Vansh&show_icons=true&theme=dark&hide_border=true)](https://github.com/Akshat-Raj-Vansh)
-
----
-
 [website]: http://AkshatRajVansh.com  
 [linkedin]: https://linkedin.com/in/akshat-r-0589b4b1  
 [github]: https://github.com/Akshat-Raj-Vansh
